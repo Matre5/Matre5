@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am Matre Aiguokhian
-I am a python and Javascript Programmer, also a data scientist.
+I am a data Scientist/Analyst and Backend Developer.
 
 🔭 I’m currently working on a Symptom-Based Medicine Recommendation System using Machine learning
 
