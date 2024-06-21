@@ -3,7 +3,7 @@
 ### I am Matre Aiguokhian
 I am a data Scientist/Analyst and Backend Developer.
 
-🔭 I’m currently working on a Symptom-Based Medicine Recommendation System using Machine learning
+🔭 I’m currently working on RxSync the medical/health assistant on web and mobile devices
 
 <!--
 **Matre5/Matre5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
