@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ### I am Matre Aiguokhian
-I am a data Scientist/Analyst and Backend Developer.
+I'm a **Data Scientist & Machine Learning Enthusiast** passionate about turning raw data into meaningful insights.
+
 I enjoy a task that has me thinking and writing codes in python.
-I am fluent but never turning down an opportunity to improve my skills in: Python, SQl, Tableu, Power BI, Microsoft Excel,
-numpy, pandas, matplotlib, Keras and several Machine Learning.
+I am fluent but never turning down an opportunity to improve my skills in: **EDA, Predictive Modeling, Python, Machine Learning, NLP, and AI-driven solutions**. 
 
 📫 How to reach me:
 email : aigmatre5@gmail.com
