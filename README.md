@@ -8,7 +8,7 @@ I am fluent but never turning down an opportunity to improve my skills in: **EDA
 
 📫 How to reach me:
 email : aigmatre5@gmail.com
-data portfolio: https://mavenanalytics.io/profile/Matre-Aiguokhian/205619748?view=projects
+visualisations portfolio: https://mavenanalytics.io/profile/Matre-Aiguokhian/205619748?view=projects
 
 👯 I’m looking to collaborate on Data Oriented work
 ⚡ About Me: I love playing basketball and volleyball. If i could bake everything i will. 
