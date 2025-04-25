@@ -7,8 +7,8 @@ I enjoy a task that has me thinking and writing codes in python.
 I am fluent but never turning down an opportunity to improve my skills in: **EDA, Predictive Modeling, Python, Machine Learning, NLP, and AI-driven solutions**. 
 
 📫 How to reach me:
-email : aigmatre5@gmail.com
-visualisations portfolio: https://mavenanalytics.io/profile/Matre-Aiguokhian/205619748?view=projects
+email : aigmatre5@gmail.com  
+portfolio: [https://matre5.github.io]
 
 👯 I’m looking to collaborate on Data Oriented work
 ⚡ About Me: I love playing basketball and volleyball. If i could bake everything i will. 
