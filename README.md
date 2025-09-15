@@ -10,7 +10,7 @@ I am fluent but never turning down an opportunity to improve my skills in: **EDA
 email : aigmatre5@gmail.com  
 portfolio: [https://matre5.github.io]
 
-👯 I’m looking to collaborate on Data Oriented work
+👯 I’m looking to collaborate on Data Oriented work <br>
 ⚡ About Me: I love playing basketball and volleyball. If i could bake everything i will. 
               The office and friends will always be a classic.
 <!--
