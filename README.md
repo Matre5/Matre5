@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matre Aiguokhian</h1>
-<h3 align="center">I'm a Data Scientist, Machine Learning and python developer passionate about turning raw data into meaningful insights.</h3>
+<h3 align="center">I'm a Data Scientist, Machine Learning and python developer passionate about turning raw data into meaningful insights.</h3> <br><br>
 
 🔭 I’m currently working on **SkinTelligent**, an LLM Skin dermatogist, cosmetogist and ingredients checker.
 
