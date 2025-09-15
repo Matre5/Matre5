@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am Matre Aiguokhian
-I'm a **Data Scientist & Machine Learning Enthusiast** passionate about turning raw data into meaningful insights.
+I'm a **Data Scientist, Machine Learning and python developer** passionate about turning raw data into meaningful insights.
 
 I enjoy a task that has me thinking and writing codes in python.
 I am fluent but never turning down an opportunity to improve my skills in: **EDA, Predictive Modeling, Python, Machine Learning, NLP, and AI-driven solutions**. 
