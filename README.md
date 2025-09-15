@@ -9,8 +9,7 @@ I am fluent but never turning down an opportunity to improve my skills in: **EDA
 📫 How to reach me:
 email : aigmatre5@gmail.com  
 portfolio: [https://matre5.github.io]
-<a href="https://linkedin.com/in/matreaiguokhianiyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matreaiguokhianiyen" height="30" width="40" /></a>
-</p>
+<br>
 
 👯 I’m looking to collaborate on Data Oriented work <br>
 ⚡ About Me: I love playing basketball and volleyball. If i could bake everything i will. 
